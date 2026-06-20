@@ -2,4 +2,4 @@
 for elkomy web school git course
 
 
-##project notes 
+## project notes 
